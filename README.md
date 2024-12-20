@@ -39,7 +39,7 @@ This project combines the implementation of a multi-threaded API web server with
 ## Setup and Running the Project
 
 ### Prerequisites
-- Python 3.x
+- Python 3.0
 - Libraries: `socket`, `select`, `threading`, `argparse`, `uuid`, `json`
 
 ### How to Run
@@ -95,10 +95,3 @@ This project combines the implementation of a multi-threaded API web server with
 - Implement persistent storage for the database.
 - Add user authentication and session management.
 - Optimize performance for large-scale deployments.
-
-## Contact
-Feel free to reach out for any questions or discussions related to the project.
-
----
-
-This project was developed as part of a coursework assignment to demonstrate skills in network programming, distributed systems, and web development.
